@@ -91,6 +91,10 @@ http://www.calltoidea.com/
 
 http://allfreephotos.net/
 
+https://www.pexels.com/
+
+https://visualhunt.com/
+
 ## Referências
 
 http://webfatorial.github.io/grid/
