@@ -29,6 +29,8 @@ http://www.webpagefx.com/web-design/hex-to-rgb/
 
 http://getuicolors.com/
 
+http://uigradients.com/
+
 ## Emuladores
 
 http://www.responsimulator.com/
@@ -104,6 +106,10 @@ http://www.calltoidea.com/
 ## Imagens
 
 http://allfreephotos.net/
+
+https://www.pexels.com/
+
+https://visualhunt.com/
 
 ## Referências
 
@@ -182,3 +188,7 @@ http://www.joelambert.co.uk/flux/
 http://socialsharekit.com/
 
 http://alvarotrigo.com/fullPage/
+
+## Performance
+
+https://browserdiet.com/pt
