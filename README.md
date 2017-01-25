@@ -174,3 +174,7 @@ http://www.joelambert.co.uk/flux/
 http://socialsharekit.com/
 
 http://alvarotrigo.com/fullPage/
+
+## Performance
+
+https://browserdiet.com/pt
