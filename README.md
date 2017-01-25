@@ -192,3 +192,12 @@ http://alvarotrigo.com/fullPage/
 ## Performance
 
 https://browserdiet.com/pt
+
+## Outras Listas
+
+https://github.com/santosluiz/Txt-da-Vida
+
+https://github.com/leocavalcante/my-awesome-frontend
+
+https://medium.com/brasil/trezentas-coisas-gratuitas-e-sensacionais-para-empreendedores-e-startups-4d054afd6395#.8adzvb2mh
+
