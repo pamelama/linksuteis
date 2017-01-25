@@ -29,6 +29,20 @@ http://www.webpagefx.com/web-design/hex-to-rgb/
 
 http://getuicolors.com/
 
+## Emuladores
+
+http://www.responsimulator.com/
+
+http://www.viewportemulator.com/
+
+http://quirktools.com/screenfly/
+
+http://iphone4simulator.com/
+
+http://iphone5simulator.com/
+
+http://thiagocanudo.com.br/responsa/
+
 ## Ferramentas
 
 http://howtocenterincss.com/
@@ -50,20 +64,6 @@ http://www.thestarterkit.info/
 http://wwwhere.io/
 
 http://svgporn.com/
-
-## Emuladores
-
-http://www.responsimulator.com/
-
-http://www.viewportemulator.com/
-
-http://quirktools.com/screenfly/
-
-http://iphone4simulator.com/
-
-http://iphone5simulator.com/
-
-http://thiagocanudo.com.br/responsa/
 
 ## Inspiração
 
