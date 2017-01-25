@@ -151,6 +151,8 @@ https://fonts.google.com/
 
 http://fontawesome.io/
 
+http://freetypography.com/
+
 ## Plugins
 
 http://www.unheap.com/
