@@ -31,6 +31,20 @@ http://getuicolors.com/
 
 http://uigradients.com/
 
+## Emuladores
+
+http://www.responsimulator.com/
+
+http://www.viewportemulator.com/
+
+http://quirktools.com/screenfly/
+
+http://iphone4simulator.com/
+
+http://iphone5simulator.com/
+
+http://thiagocanudo.com.br/responsa/
+
 ## Ferramentas
 
 http://howtocenterincss.com/
