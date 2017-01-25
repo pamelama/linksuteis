@@ -43,7 +43,13 @@ http://thenextweb.com/dd/2015/02/18/300-awesome-free-things-massive-list-free-re
 
 https://www.google.com/webmasters/tools/mobile-friendly/?hl=pt-BR
 
+http://1stwebdesigner.com/free-web-design-resources/
+
 http://www.thestarterkit.info/
+
+http://wwwhere.io/
+
+http://svgporn.com/
 
 ## Inspiração
 
@@ -77,6 +83,10 @@ https://onepagelove.com/
 
 http://www.uiparade.com/
 
+https://www.bootstrapzero.com/
+
+http://www.calltoidea.com/
+
 ## Imagens
 
 http://allfreephotos.net/
@@ -84,6 +94,18 @@ http://allfreephotos.net/
 ## Referências
 
 http://webfatorial.github.io/grid/
+
+http://www.w3schools.com/
+
+https://developer.mozilla.org/pt-BR/
+
+https://developer.wordpress.org/
+
+https://codex.wordpress.org/
+
+https://github.com/lipis/awesome-style-guides
+
+https://tympanus.net/codrops/
 
 ## Freebies
 
@@ -131,4 +153,16 @@ http://fontawesome.io/
 
 ## Plugins
 
+http://www.unheap.com/
+
+https://designmodo.com/free-jquery-plugins-2016/
+
 http://briangonzalez.github.io/jquery.adaptive-backgrounds.js/
+
+http://introjs.com/
+
+http://www.joelambert.co.uk/flux/
+
+http://socialsharekit.com/
+
+http://alvarotrigo.com/fullPage/
