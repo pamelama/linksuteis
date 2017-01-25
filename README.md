@@ -29,7 +29,7 @@ http://www.webpagefx.com/web-design/hex-to-rgb/
 
 http://getuicolors.com/
 
-http://uigradients.com
+http://uigradients.com/
 
 ## Ferramentas
 
