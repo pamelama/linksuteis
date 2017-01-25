@@ -51,6 +51,20 @@ http://wwwhere.io/
 
 http://svgporn.com/
 
+## Emuladores
+
+http://www.responsimulator.com/
+
+http://www.viewportemulator.com/
+
+http://quirktools.com/screenfly/
+
+http://iphone4simulator.com/
+
+http://iphone5simulator.com/
+
+http://thiagocanudo.com.br/responsa/
+
 ## Inspiração
 
 https://www.thebestdesigns.com/
