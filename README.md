@@ -199,6 +199,14 @@ http://socialsharekit.com/
 
 http://alvarotrigo.com/fullPage/
 
+https://vestride.github.io/Shuffle/
+
+http://imagesloaded.desandro.com/
+
+https://github.com/sebarmeli/JAIL
+
+http://kenwheeler.github.io/slick/
+
 ## Performance
 
 https://browserdiet.com/pt
