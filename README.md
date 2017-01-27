@@ -67,6 +67,12 @@ http://wwwhere.io/
 
 http://svgporn.com/
 
+http://yellowlab.tools/
+
+https://www.webpagetest.org/
+
+https://tinypng.com/
+
 ## Inspiração
 
 https://www.thebestdesigns.com/
@@ -112,6 +118,8 @@ http://allfreephotos.net/
 https://www.pexels.com/
 
 https://visualhunt.com/
+
+http://www.freeimages.com/
 
 ## Referências
 
