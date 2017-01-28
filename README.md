@@ -67,6 +67,12 @@ http://wwwhere.io/
 
 http://svgporn.com/
 
+http://yellowlab.tools/
+
+https://www.webpagetest.org/
+
+https://tinypng.com/
+
 ## Inspiração
 
 https://www.thebestdesigns.com/
@@ -112,6 +118,8 @@ http://allfreephotos.net/
 https://www.pexels.com/
 
 https://visualhunt.com/
+
+http://www.freeimages.com/
 
 https://unsplash.com/
 
@@ -192,6 +200,14 @@ http://www.joelambert.co.uk/flux/
 http://socialsharekit.com/
 
 http://alvarotrigo.com/fullPage/
+
+https://vestride.github.io/Shuffle/
+
+http://imagesloaded.desandro.com/
+
+https://github.com/sebarmeli/JAIL
+
+http://kenwheeler.github.io/slick/
 
 ## Performance
 
