@@ -123,6 +123,8 @@ http://www.freeimages.com/
 
 https://unsplash.com/
 
+https://stocksnap.io/
+
 ## Referências
 
 http://webfatorial.github.io/grid/
